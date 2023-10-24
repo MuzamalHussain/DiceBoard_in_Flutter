@@ -17,8 +17,8 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-  int num1=1;
-  int num2=1;
+  int num1=0;
+  int num2=0;
   Color color_1=Colors.white;
   Color color_2=Colors.white;
   Color color_3=Colors.white;
